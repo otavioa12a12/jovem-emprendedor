@@ -1,0 +1,11 @@
+.parallax {
+  background-image: url("https://conteudo.imguol.com.br/c/entretenimento/70/2021/05/25/codigo-binario-1621982130311_v2_3x4.jpg");
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.7;
+}
